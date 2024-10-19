@@ -8,5 +8,9 @@
 <body>
   <p>Hello World</p>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, corrupti!</p>
+  <ul>
+    <li>Nama</li>
+    <li>NPM</li>
+  </ul>
 </body>
 </html>
